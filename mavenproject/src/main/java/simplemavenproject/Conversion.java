@@ -1,5 +1,5 @@
 package simplemavenproject;
-
+//simple conversion class
 public class Conversion {
 	public double tempConversion(double temperature, String unit){
 		if (unit.equals("F"))
