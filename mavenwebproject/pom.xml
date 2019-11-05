@@ -57,7 +57,7 @@
   </profiles>
   
   
-  <build>
+  <!-- <build>
     <finalName>mavenwebproject</finalName>
-  </build>
+  </build> -->
 </project>
