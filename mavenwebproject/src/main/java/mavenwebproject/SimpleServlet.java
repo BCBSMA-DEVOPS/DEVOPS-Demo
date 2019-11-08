@@ -23,7 +23,7 @@ public class SimpleServlet extends HttpServlet {
 	         throws ServletException, IOException {
 	      resp.setContentType("text/plain");
 
-	      resp.getWriter().write("Hello World!!! Maven Web Project Example.");
+	      resp.getWriter().write("Hello World!!! updates to Maven Web Project Example.");
 
 
 
