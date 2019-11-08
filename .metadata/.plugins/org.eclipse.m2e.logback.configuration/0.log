@@ -590,3 +590,40 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-11-05 17:27:49,775 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-11-05 17:27:49,791 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2019-11-05 17:27:49,813 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
+2019-11-05 18:18:37,973 [Worker-37: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.bcbms:mavenwebproject:0.0.1-SNAPSHOT @ C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\pom.xml.
+2019-11-05 18:19:08,182 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:19:08,197 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-05 18:19:08,197 [Worker-37: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:19:08,213 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
+2019-11-05 18:19:08,313 [Worker-38: Launching Executing install in C__IBM_BCBSMA_DEVOPS-Demo_mavenwebproject] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject
+2019-11-05 18:19:08,313 [Worker-38: Launching Executing install in C__IBM_BCBSMA_DEVOPS-Demo_mavenwebproject] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-11-05 18:19:23,400 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:19:23,466 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-05 18:19:23,482 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:19:23,497 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
+2019-11-05 18:56:38,711 [Worker-40: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ibm.bcbms:mavenwebproject:0.0.1-SNAPSHOT @ C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\pom.xml.
+2019-11-05 18:56:41,154 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:56:41,175 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-05 18:56:41,188 [Worker-40: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-05 18:56:41,210 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
+2019-11-06 21:02:14,178 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-11-06 21:02:25,583 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:25,597 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\java-project\src\main\resources
+2019-11-06 21:02:25,605 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:25,635 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\java-project\src\test\resources
+2019-11-06 21:02:25,943 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 21:02:25,943 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\java-project2\src\main\resources
+2019-11-06 21:02:25,945 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-06 21:02:25,946 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\java-project2\src\test\resources
+2019-11-06 21:02:26,946 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:26,985 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-06 21:02:26,991 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:27,018 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-06 21:02:27,350 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:27,371 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-06 21:02:27,373 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-06 21:02:27,424 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
+2019-11-08 14:48:10,348 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-08 14:48:11,577 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-08 14:48:11,577 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-08 14:48:11,593 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IBM\BCBSMA\DEVOPS-Demo\mavenwebproject\src\test\resources
